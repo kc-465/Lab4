@@ -1,1 +1,20 @@
+/* CSS RESET */
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Roboto", Helvetica, sans-serif;
+}
 
+.site-logo {
+    background-color: #00CCFD;
+    color: white;
+}
+
+.site-logo h3 {
+    font-family: "Oswald", Impact, sans-serif;
+}
+
+.card-media {
+    max-width: 300px;
+}
