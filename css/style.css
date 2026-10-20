@@ -130,6 +130,7 @@ main {
 
 .card-contents a {
     display: flex;
+    justify-content: center;
     border-radius: 4px;
     grid-area: ca
 }
